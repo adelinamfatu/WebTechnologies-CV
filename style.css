@@ -16,14 +16,14 @@ div {
 .icon {
     display: block;
     border-radius: 50%;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .profilePicture {
     height: 50%;
     width: 30%;
     margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .fontOnImg {
@@ -65,7 +65,35 @@ div {
 }
 
 p {
-    text-indent: 5%;
+    text-align: center;
     padding-top: 3%;
     font-size: 200%;
+}
+
+hr {
+    width: 4%;
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color: black;
+}
+
+.pngSize {
+    width: 20%;
+    height: 30%;
+}
+
+.desktop {
+    float: left;
+}
+
+.softSkills {
+    float: right;
+}
+
+h2 {
+    text-indent: 5%;
+}
+
+.alignTextNearPhoto {
+    padding-left: 55%;
 }
