@@ -1,0 +1,44 @@
+body, html {
+    margin: 0;
+}
+
+div {
+    width: 100%;
+    height: 100vh;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.fontOnImg {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+
+.title {
+    top: 20%;
+    font-family: 'Dancing Script';
+    font-size: 500%;
+    text-shadow: 3px 3px 3px #ababab;
+}
+
+.subtitle {
+    width: 100%;
+    top: 35%;
+    font-family: 'Times New Roman', Times;
+}
+
+.page2 {
+    background-color: #fe927e;
+}
+
+.page3 {
+    background-color: #beb6c2;
+}
+
+.page4 {
+    background-color: #ffd49a;
+}
