@@ -45,16 +45,12 @@ div {
     font-family: 'Times New Roman', Times;
 }
 
-.page2 {
-    background-color: #fe927e;
+.pageWhite {
+    background-color: white;
 }
 
 .page3 {
-    background-color: #beb6c2;
-}
-
-.page4 {
-    background-color: #ffd49a;
+    background-color: #fe927e;
 }
 
 .titleSecondaryPages {
@@ -74,7 +70,7 @@ hr {
     width: 4%;
     border-style: dotted none none;
     border-width: 10px;
-    border-color: black;
+    border-color: grey;
 }
 
 .pngSize {
@@ -96,4 +92,33 @@ h2 {
 
 .alignTextNearPhoto {
     padding-left: 55%;
+}
+
+a {
+    color: white;
+    background-color: #fe927e;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    padding: 1% 2%;
+    margin-left: 42%;
+    margin-right: 40%;
+    border-radius: 50%;
+}
+
+.myLinks {
+    background-color: white;
+    color: #fe927e;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}
+
+.alignFirstButton {
+    padding-left: 43%;
+}
+
+#footer {
+    padding-bottom: 0%;
 }
