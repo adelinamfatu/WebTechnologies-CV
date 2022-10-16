@@ -30,6 +30,7 @@ div {
     position: absolute;
     width: 100%;
     text-align: center;
+    color: #fd8a7a;
 }
 
 .title {
@@ -43,6 +44,7 @@ div {
     width: 100%;
     top: 35%;
     font-family: 'Times New Roman', Times;
+    text-shadow: 3px 3px 3px #ababab;
 }
 
 .pageWhite {
@@ -58,6 +60,10 @@ div {
     padding-top: 1%;
     font-family: 'Inter Tight';
     font-size: 350%;
+}
+
+.titleThirdPage {
+    color: #EFEFEF;
 }
 
 p {
@@ -90,6 +96,7 @@ hr {
 h2 {
     text-indent: 5%;
     font-family: 'Inter Tight';
+    color: #EFEFEF;
 }
 
 .alignTextNearPhoto {
