@@ -11,6 +11,11 @@ div {
 .background {
     height: 100%;
     width: 100%;
+    padding-right: 0;
+}
+
+.backgroundImage {
+    background-image: url('img/genshin.png');
 }
 
 .icon {
@@ -112,7 +117,7 @@ a {
     display:inline-block;
     padding: 1% 5%;
     margin-left: 38%;
-    margin-right: 40%;
+    margin-right: 38%;
     border-radius: 50%;
     font-family: 'Inter Tight';
 }
@@ -129,8 +134,12 @@ a {
 }
 
 .alignFirstButton {
-    padding-left: 36%;
+    padding-left: 35%;
     margin-top: 12%;
+}
+
+.alignMidButton {
+    align-items: center;
 }
 
 .footer {
@@ -138,6 +147,7 @@ a {
     margin-top: 4%;
     margin-bottom: 0%;
     font-family: 'Inter Tight';
+    font-size: 100%;
 }
 
 .halfBackground {
