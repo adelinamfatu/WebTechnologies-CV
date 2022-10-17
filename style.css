@@ -131,15 +131,13 @@ a {
     border: none;
     cursor: pointer;
     font-family: 'Inter Tight';
-}
-
-.alignFirstButton {
-    padding-left: 35%;
+    align-items: center;
+    justify-content: center;
     margin-top: 12%;
 }
 
-.alignMidButton {
-    align-items: center;
+.divAlign {
+    text-align: center;
 }
 
 .footer {
