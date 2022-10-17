@@ -23,6 +23,14 @@ div {
     border-radius: 50%;
 }
 
+.sizePp {
+    height: 400px;
+    width: 400px;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .profilePicture {
     height: 50%;
     width: 30%;
